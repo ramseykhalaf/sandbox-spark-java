@@ -1,0 +1,6 @@
+target
+metastore_db
+data
+derby.log
+spark-java.iml
+.idea
